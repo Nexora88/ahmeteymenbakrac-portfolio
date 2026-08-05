@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexora88.github.io/ahmeteymenbakrac-portfolio/sitemap.xml
