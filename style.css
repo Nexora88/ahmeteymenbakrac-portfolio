@@ -240,3 +240,13 @@ a {
 a:hover {
     color: #a78bfa;
 }
+
+.project h3 a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+.project h3 a:hover {
+    color: #38bdf8;
+}
